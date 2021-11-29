@@ -1,3 +1,6 @@
 12
 s45
+<<<<<<< HEAD
 teremok
+=======
+>>>>>>> 08dbfe3bf7149c73377ec47c2ee8a157b69a9d34
